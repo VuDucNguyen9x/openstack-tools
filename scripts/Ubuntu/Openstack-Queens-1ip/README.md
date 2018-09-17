@@ -1,7 +1,7 @@
 # Openstack-Queens-5node-1ip
 Script dùng để cài đặt openstack queens mô hình 5 node 1 IP trên Ubuntu 16.04 LTS
 
-![](./images/Queens-5node-1ip.png)
+![](/images/Queens-5node-1ip.png)
 
 ## Thực hiện cài đặt
 Lưu ý: Các thông tin cấu hình ở trong file config.cfg
