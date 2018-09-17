@@ -1,7 +1,7 @@
 # Openstack-Queens-5node
 Script dùng để cài đặt openstack queens mô hình 5 node trên Ubuntu 16.04 LTS
 
-![](./images/Queens-5-node.png)
+![](/images/Queens-5-node.png)
 
 ## Thực hiện cài đặt
 Lưu ý: Các thông tin cấu hình ở trong file config.cfg
